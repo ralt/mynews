@@ -21,5 +21,6 @@ val feedSources = listOf(
     FeedSource("Les Echos", "https://syndication.lesechos.fr/rss/rss_une.xml", "Finance"),
     FeedSource("CNBC", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147", "Finance"),
     FeedSource("MarketWatch", "https://feeds.marketwatch.com/marketwatch/topstories/", "Finance"),
+    FeedSource("Yahoo Finance", "https://finance.yahoo.com/news/rssindex", "Finance"),
     FeedSource("LWN.net", "https://lwn.net/headlines/rss", "Linux")
 )
