@@ -12,7 +12,7 @@ A personal news aggregator Android app. Open it, skim titles from mixed sources,
 |-----|---------|
 | Tech | Hacker News, r/programming, Ars Technica, LWN.net |
 | World | BBC World, r/worldnews, Reuters, Al Jazeera |
-| Finance | Les Echos, CNBC, MarketWatch |
+| Finance | Les Echos, CNBC, MarketWatch, Yahoo Finance |
 | France | Le Monde, France Info, France Bleu Vaucluse, Google News (Orange/Mornas) |
 
 ## Features
