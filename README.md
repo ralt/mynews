@@ -2,6 +2,8 @@
 
 A personal news aggregator Android app. Open it, skim titles from mixed sources, tap to read in the browser. That's it.
 
+<img src="screenshot.png" width="300" alt="MyNews screenshot" />
+
 **This app is entirely vibe-coded** — built through conversational iteration with an AI, with zero manual code editing. It's very specific to my needs (a mix of tech, world, French, local south-of-France, and financial news). Your mileage may vary.
 
 ## Sources

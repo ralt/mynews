@@ -16,7 +16,7 @@ class RssDataSource(private val rssParser: RssParser) {
             if (source.name == "Hacker News" && title.startsWith("Ask HN: Who is hiring")) return@mapNotNull null
             NewsItem(
                 title = title,
-                summary = item.description?.take(300),
+                summary = item.description?.replace(Regex("<[^>]*>"), "")?.trim()?.take(300),
                 url = url,
                 source = source.name,
                 category = source.category,
