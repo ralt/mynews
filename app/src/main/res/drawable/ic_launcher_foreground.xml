@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Newspaper body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,30 L84,30 L84,78 L24,78 Z" />
+
+    <!-- Newspaper fold/shadow -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M24,30 L24,78 L30,75 L30,33 Z" />
+
+    <!-- Headline bar -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M30,33 L80,33 L80,42 L30,42 Z" />
+
+    <!-- Text lines -->
+    <path
+        android:fillColor="#757575"
+        android:pathData="M30,46 L62,46 L62,49 L30,49 Z" />
+    <path
+        android:fillColor="#757575"
+        android:pathData="M30,52 L58,52 L58,55 L30,55 Z" />
+    <path
+        android:fillColor="#757575"
+        android:pathData="M30,58 L65,58 L65,61 L30,61 Z" />
+    <path
+        android:fillColor="#757575"
+        android:pathData="M30,64 L55,64 L55,67 L30,67 Z" />
+    <path
+        android:fillColor="#757575"
+        android:pathData="M30,70 L60,70 L60,73 L30,73 Z" />
+
+    <!-- Small image placeholder block -->
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M66,46 L80,46 L80,61 L66,61 Z" />
+
+</vector>
